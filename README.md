@@ -1,5 +1,5 @@
-Twitter Bot Sample
-A sample Twitter bot in Python.
+Twitter Bot
+A fun Twitter bot in Python that automatically replies to the tweets in which it is tagged.
 
 Set up notes
 How to install Tweepy
